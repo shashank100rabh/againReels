@@ -1,0 +1,71 @@
+.videoCard {
+  position: relative;
+  width: 300px; /* Adjust width as needed */
+  height: 533px; /* Maintain 9:16 aspect ratio */
+  margin: 10px auto;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #000; /* Ensure a dark background behind the video */
+}
+
+.videoCard__player {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.videoCard__info {
+  position: absolute;
+  bottom: 60px;
+  left: 10px;
+  color: #fff;
+  z-index: 2;
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+.videoCard__info h4 {
+  font-size: 18px;
+  margin: 0;
+  margin-bottom: 5px;
+}
+
+.videoCard__info p {
+  font-size: 14px;
+  margin: 0;
+}
+
+.videoCard__controls {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  z-index: 2;
+}
+
+.videoCard__controls button {
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 24px;
+  margin: 5px 0;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.videoCard__controls button:hover {
+  transform: scale(1.2);
+}
+
+.videoCard__controls button:active {
+  transform: scale(1);
+}
+
+.videoCard__controls button:focus {
+  outline: none;
+}

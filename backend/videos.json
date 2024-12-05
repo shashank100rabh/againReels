@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Healthy Avocado Salad",
+    "description": "Learn how to make a quick avocado salad.",
+    "url": "https://www.youtube.com/shorts/pnm0xdj9-uc",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 2,
+    "title": "Vegan Smoothie Bowl",
+    "description": "A perfect start to your day.",
+    "url": "https://www.youtube.com/shorts/wO5ylcfaefY",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 3,
+    "title": "Healthy Avocado Salad",
+    "description": "Learn how to make a quick avocado salad.",
+    "url": "https://www.youtube.com/shorts/u60vTQPmFIo",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 4,
+    "title": "Vegan Smoothie Bowl",
+    "description": "A perfect start to your day.",
+    "url": "https://www.youtube.com/shorts/yi4wroazlcw",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 5,
+    "title": "Healthy Avocado Salad",
+    "description": "Learn how to make a quick avocado salad.",
+    "url": "https://www.youtube.com/shorts/sIbzzVbQ-3o",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 6,
+    "title": "Vegan Smoothie Bowl",
+    "description": "A perfect start to your day.",
+    "url": "https://www.youtube.com/shorts/sLeyJF7q3dY",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 7,
+    "title": "Healthy Avocado Salad",
+    "description": "Learn how to make a quick avocado salad.",
+    "url": "https://www.youtube.com/shorts/hAllxjxX27w",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 8,
+    "title": "Vegan Smoothie Bowl",
+    "description": "A perfect start to your day.",
+    "url": "https://www.youtube.com/shorts/T2Ui5QkmOf8",
+    "thumbnail": "https://via.placeholder.com/300x200"
+  }
+]

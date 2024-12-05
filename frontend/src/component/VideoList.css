@@ -1,0 +1,25 @@
+.videoList {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.loadMoreButton {
+  margin: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.loadMoreButton:disabled {
+  background-color: #c0c0c0;
+  cursor: not-allowed;
+}
+
+.loadMoreButton:hover:not(:disabled) {
+  background-color: #0056b3;
+}
